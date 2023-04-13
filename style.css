@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #f5f6f7;
+  background-color: #FAF7F0;
 }
 
 .navbar-collapse {
@@ -26,7 +26,7 @@ h1 {
 
 .dark-section {
   color:Black;
-  background-color: #d4fba8;
+  background-color: #CDFCF6;
 }
 
 .light-section {
@@ -61,7 +61,7 @@ h1 {
 /* Hero */
 
 .hero {
-  background-color: #f5f6f7;
+  background-color: #FAF7F0;
   min-height: 450px;
   text-align: center;
 }
@@ -212,7 +212,7 @@ h1 {
 
 .contact .rectangle {
   margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  background-color: #BCCEF8;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
