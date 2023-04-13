@@ -43,6 +43,9 @@ h2{
   padding: 15px 0;
   font-family: 'Rubik Dirt', cursive;
 }
+.title{
+  font-family: 'IBM Plex Sans', sans-serif;
+}
 
 .description {
   font-size: 1.2rem;
@@ -231,6 +234,7 @@ h2{
 .contact .description {
   color: black;
   font-size: 1.2rem;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .contact button {
@@ -250,7 +254,7 @@ h2{
 }
 
 .contact button i {
-  color: white;
+  color: #000000;
   font-size: 1.3rem;
   transition: all 0.2s ease-in-out;
 }
